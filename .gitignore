@@ -3,6 +3,8 @@ lib/impact
 lib/weltmeister
 weltmeister.html
 .idea/
+*.ipr
+*.iws
 design/
 impactjs-overtime.iml
 game.min.js
