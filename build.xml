@@ -1,4 +1,4 @@
-<project name="overtime" basedir="." default="create-exe">
+<project name="game-off-2013" basedir="." default="create-exe">
     <property name="nw.name" value="game-off-2013.nw"/>
     <property name="nw.dir" value="C:\node-webkit-v0.8.0-win-ia32"/>
     <property name="exe.name" value="game-off-2013.exe"/>

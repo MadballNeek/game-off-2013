@@ -1,14 +1,14 @@
 {
-    "name": "Overtime",
+    "name": "GitHub's Game Off 2013",
     "main": "index-desktop.html",
     "window": {
-        "title": "Overtime",
+        "title": "GitHub's Game Off 2013",
         "toolbar": false,
         "frame": true,
         "width": "720",
         "height": "480",
         "position": "mouse",
-        "resizable": false,
-        "fullscreen": true
+        "resizable": true,
+        "fullscreen": false
     }
 }
