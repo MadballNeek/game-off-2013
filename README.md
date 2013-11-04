@@ -2,6 +2,11 @@
 
 Current hope &amp; dream is to create a procedurally generated Elevator Actionlike game.
 
+Plugins Credit:
+* stateMachine.js - https://github.com/drhayes/impactjs-statemachine
+* eventChain.js - https://github.com/drhayes/impactjs-eventchain
+
+
 The MIT License (MIT)
 
 Copyright (c) 2013 Nicholas DiMucci
