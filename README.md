@@ -1,5 +1,7 @@
 ## Elevated Action - An Elevator Actionlike - GitHub's Game Off 2013 Submission
 
+Current hope &amp; dream is to create a procedurally generated Elevator Actionlike game.
+
 The MIT License (MIT)
 
 Copyright (c) 2013 Nicholas DiMucci
